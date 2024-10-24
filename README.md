@@ -56,7 +56,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/fersonaglio/fersonaglio/output/snake.svg" alt="Snake animation" />
-
-###
