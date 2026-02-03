@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Desenvolvedor web com expertise em HTML, CSS, JavaScript e React, com foco em desenvolvimento full stack. Experiência em freelancer, criando landing pages e portfólios. Habilidades em UI/UX design utilizando Figma. Comprometido com boas práticas de desenvolvimento, incluindo testes automatizados (unitários e de integração) e melhoria contínua de processos.</p>
+<p align="left">I am a Front-End Developer and Information Systems student focused on building high-performance, responsive web applications using React, JavaScript, and UI/UX principles. With experience as a Freelancer developing landing pages and portfolios, I combine visual precision with technical efficiency. Currently, I work as a Database Support Administrator, where I specialize in SQL reports, API integrations, and system optimizations. My goal is to bridge the gap between robust data management and engaging user interfaces, always committed to clean code and automated testing.</p>
 
 ###
 
